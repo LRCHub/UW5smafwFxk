@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Just Feel It",
+  "base_artist": "NOA",
+  "createdAt": "2025-12-18T12:25:00.144022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just Feel It",
+      "artist": "Pilar Pascual",
+      "has_synced": true,
+      "path": "select/01_Just_Feel_It_Pilar_Pascual.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just Feel It",
+      "artist": "Noa",
+      "has_synced": true,
+      "path": "select/02_Just_Feel_It_Noa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Feel It / Don't Give Up - En Vivo",
+      "artist": "Pilar Pascual",
+      "has_synced": false,
+      "path": "select/03_Just_Feel_It___Don't_Give_Up_-_En_Vivo_Pilar_Pascual.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Feel It",
+      "artist": "NOA",
+      "has_synced": true,
+      "path": "select/04_Just_Feel_It_NOA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Feel It",
+      "artist": "Mariana Feo",
+      "has_synced": true,
+      "path": "select/05_Just_Feel_It_Mariana_Feo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just Feel It",
+      "artist": "NOA, Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_Just_Feel_It_NOA,_Ayumu_Imazu.txt"
+    }
+  ]
+}
